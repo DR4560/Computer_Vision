@@ -1,7 +1,7 @@
 # The computer vision Foundation
 
 ## In this case:
-|Name  | Describtion |
+|Name  | Description |
 | ------------- | ------------- |
 | MATLAB |  Programming Assignments|
 | MATLAB |  Color Space|
