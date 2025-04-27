@@ -1,7 +1,7 @@
 # The computer vision Foundation
 
 ## In this case:
-|Name  | Progress |
+|Name  | Describtion |
 | ------------- | ------------- |
 | MATLAB |  Programming Assignments|
 | MATLAB |  Color Space|
@@ -9,7 +9,7 @@
 | MATLAB | Image Gradient Magnitude|
 | MATLAB | Aligning RGB Channels|
 
-| xx  | xx |
+
 
 > [!NOTE]
 > The code was written by user via study course and refactored for own needs. This is not for commercial use.
