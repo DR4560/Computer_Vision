@@ -3,7 +3,6 @@
 ## In this case:
 |Name  | Progress |
 | ------------- | ------------- |
-
 | MATLAB |  Programming Assignments|
 | MATLAB |  Color Space|
 | MATLAB |  Color Imaging - RGB Channels|
